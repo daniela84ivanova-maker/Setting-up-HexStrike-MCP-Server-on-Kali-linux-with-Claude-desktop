@@ -113,6 +113,6 @@ Interact with AI-assisted security tools using Claude prompts.
 
 Review and document the password-cracking results.
 
-Results
+# Results
 
 
