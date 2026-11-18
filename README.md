@@ -1,4 +1,4 @@
-    # Cybersecurity with Networkwalks Week 3
+     Cybersecurity with Networkwalks Week 3
     
 # Password Hash Extraction and Cracking Using John the Ripper (JtR) and AI
 
