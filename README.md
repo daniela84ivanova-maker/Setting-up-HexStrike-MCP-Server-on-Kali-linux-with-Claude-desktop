@@ -2,13 +2,13 @@
     
 # Password Hash Extraction and Cracking Using John the Ripper (JtR) and AI
 
-Project Overview
+# Project Overview
 
 This project explores AI-assisted password recovery using John the Ripper (JtR), Hexstrike-AI, and Claude Desktop in a Kali Linux virtual machine.
 
 The objective was to configure an AI-assisted cybersecurity environment and use it to extract password hashes from three password-protected PDF files and perform password-cracking attempts.
 
-Lab Environment
+# Lab Environment
 
 Operating System: Kali Linux (Virtual Machine)
 
@@ -22,7 +22,7 @@ Protocol: Model Context Protocol (MCP)
 
 # Task 1: Setting Up Hexstrike-AI MCP Server with Claude Desktop
 
-Step 1: Install Claude Desktop on Kali Linux
+# Step 1: Install Claude Desktop on Kali Linux
 
 Download and install Claude Desktop using the following commands.
 
@@ -39,7 +39,7 @@ Update package lists and install Claude Desktop:
 sudo apt update
 sudo apt install claude-desktop
 
-Step 2: Download and Configure Hexstrike-AI
+# Step 2: Download and Configure Hexstrike-AI
 
 Clone the Hexstrike-AI GitHub repository:
 
@@ -87,7 +87,7 @@ Refer to the Hexstrike-AI GitHub repository for configuration instructions.
 
   # Task 2: Password Hash Extraction and Cracking Using John the Ripper (JtR) and AI
 
-Lab Environment
+# Lab Environment
 
 Hexstrike-AI MCP Server
 
@@ -97,13 +97,13 @@ Kali Linux Virtual Machine
 
 John the Ripper (JtR)
 
-Objective
+# Objective
 
 Extract password hashes from three password-protected PDF files and use John the Ripper to perform password-cracking attempts.
 
 Claude Desktop was used to interact with the Hexstrike-AI MCP server through prompts, assisting with the password recovery workflow.
 
-Key Activities
+# Key Activities
 
 Extract password hashes from three PDF files.
 
